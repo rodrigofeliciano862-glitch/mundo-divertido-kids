@@ -1,0 +1,13 @@
+{
+  "id": "/mundo-divertido-kids/",
+  "name": "Mundo Divertido Kids",
+  "short_name": "Mundo Kids",
+  "description": "Cinco jogos educativos e divertidos para crianças aprenderem brincando.",
+  "start_url": "/mundo-divertido-kids/",
+  "scope": "/mundo-divertido-kids/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#6543B8",
+  "lang": "pt-BR"
+}
